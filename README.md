@@ -13,7 +13,7 @@ nasm project.asm -o project.com
 ```
 
 #### 4. Run the game:
-*Once the compilation is done, write the following commad in Dosbox to start game.
+Once the compilation is done, write the following commad in Dosbox to start game.
 ```
 project.com
 ```
