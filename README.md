@@ -7,4 +7,5 @@ Mount your folder in doxbox where you have this project file.
 
 # Compiling the game:
 Run the following command in DosBox:
+nasm project.asm -o project.com
 
