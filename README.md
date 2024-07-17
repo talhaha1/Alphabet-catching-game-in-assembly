@@ -1,11 +1,11 @@
 # Alphabet-catching-game-in-assembly
 this game is made in assembly and will run when you run .asm file on dosbox. after 10 miss game will automatically end ad your points will be shown on screen.
-# Downloading:
+### Downloading:
 Download dosbox and everything. if you have dosbox then then download only project.asm file.
-# Dosbox set-up:
+### Dosbox set-up:
 Mount your folder in doxbox where you have this project file.
 
-# Compiling the game:
+### Compiling the game:
 Run the following command in DosBox:
 nasm project.asm -o project.com
 
